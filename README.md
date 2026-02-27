@@ -14,7 +14,7 @@
 
 ```bash
 $ whoami
-Toye - Cyber & Network Engineer
+Toye - Junior Security Analysts & Network Engineer
 
 $ 🚀 Current Focus
 	•	DNS Resolution & Cache Analysis (Windows)
