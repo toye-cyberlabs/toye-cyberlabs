@@ -1,16 +1,38 @@
-## Hi there 👋
+# Toye-Cyberlabs Hacker Terminal Theme
 
-<!--
-**toye-cyberlabs/toye-cyberlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Files added:
+- `banner.txt` — ASCII login banner with specializations
+- `prompt.sh` — Bash prompt (green-on-black) and environment variables
+- `gnome-terminal-setup.sh` — Attempt to create a GNOME Terminal profile with palette
+- `install.sh` — Copies files and adds sourcing to `~/.bashrc`
 
-Here are some ideas to get you started:
+Also included:
+- `alacritty.yml` — Alacritty color config (green-on-black)
+- `kitty.conf` — Kitty color config
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Quick install:
+```bash
+cd /path/to/repo/hacker-theme
+./install.sh
+source ~/.bashrc
+```
+
+Notes:
+- `gnome-terminal-setup.sh` uses `gsettings`/`dconf`; it may require tweaks on some systems.
+- The installer backs up `~/.bashrc` to `~/.bashrc.toye-backup` before editing.
+
+Alacritty usage:
+```bash
+# copy into your config (overwrites colors section)
+mkdir -p ~/.config/alacritty
+cp alacritty.yml ~/.config/alacritty/alacritty.yml
+```
+
+Kitty usage:
+```bash
+# copy and include from your main kitty.conf
+mkdir -p ~/.config/kitty
+cp kitty.conf ~/.config/kitty/toye-cyberlabs.conf
+# then add to ~/.config/kitty/kitty.conf:
+# include toye-cyberlabs.conf
+```
