@@ -16,14 +16,31 @@
 $ whoami
 Toye - Cyber & Network Engineer
 
-$ specialization
-- Network Infrastructure
-- Cybersecurity Fundamentals
-- Router & Switch Configuration
-- Subnetting & VLAN Design
+$ 🚀 Current Focus
+	•	DNS Resolution & Cache Analysis (Windows)
+	•	Traffic Analysis & Packet Inspection
+	•	Windows & Linux Lab Simulations
+	•	Security Fundamentals & Threat Detections.
+$ 🧪 Lab Projects
+	•	DNS Resolution & Cache Analysis (Windows Lab)
+	•	Password Security & Human Behavior Study
+	•	Process & Service Enumeration (Windows)
+	•	Cryptography & Hash Cracking Practice
 
-$ current_focus
-Building secure, scalable, and resilient network systems.
+(More projects coming as I build and document my journey.)
+
+$ 🛠 Tools & Technologies
+	•	Windows CMD
+	•	Linux CLI
+	•	Wireshark (Learning)
+	•	Git & GitHub
+    *   SPLUNK
+	•	Networking Fundamentals (TCP/IP, DNS, DHCP)
+
+$ 🎯 Career Goal
+
+To become a skilled Cybersecurity Analyst with strong foundations in networking, system analysis, and threat detection.
+
 ```
 
 📊 System Analytics
