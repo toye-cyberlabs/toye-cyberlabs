@@ -64,8 +64,6 @@ All configurations, topology design, IP planning, and testing were implemented i
 
 ## 👥 Contributors
 
-!(https://contrib.rocks/image?repo=toye-cyberlabs/repository-name)
-
 This is currently a personal portfolio project.
 
 However, constructive feedback, suggestions, and technical improvements are welcome.  
