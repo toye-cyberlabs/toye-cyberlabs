@@ -46,4 +46,9 @@ To become a skilled Cybersecurity Analyst with strong foundations in networking,
 📊 System Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toye-cyberlabs&layout=compact&theme=vision-friendly-dark&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=toye-cyberlabs&theme=vision-friendly-dark&hide_border=true" /> </p>
 
+## 👤 Author
 
+**Toye**  
+- GitHub: https://github.com/toye-cyberlabs  
+- LinkedIn: www.linkedin.com/in/adewale-adetoye-elemoro-662b44299 
+- Email: adetoye.elemoro.emmanuel@gmail.com
