@@ -50,7 +50,7 @@ To become a skilled Cybersecurity Analyst with strong foundations in networking,
 
 [![GitHub](https://img.shields.io/badge/GitHub-toye--cyberlabs-black?style=for-the-badge&logo=github)](https://github.com/toye-cyberlabs)
 
-- GitHub: https://github.com/toye-cyberlabs  
+- GitHub: https://github.com/toye-cyberlabs.github.io  
 - LinkedIn: www.linkedin.com/in/adewale-adetoye-elemoro-662b44299 
 - Portfolio: https://toye-cyberlabs.github.io  
 - Focus: Secure network design, routing configuration, infrastructure labs  
