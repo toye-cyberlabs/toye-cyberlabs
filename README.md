@@ -48,6 +48,8 @@ To become a skilled Cybersecurity Analyst with strong foundations in networking,
 
 ## 👤 Author
 
+[![GitHub](https://img.shields.io/badge/GitHub-toye--cyberlabs-black?style=for-the-badge&logo=github)](https://github.com/toye-cyberlabs)
+
 **Toye**  
 - GitHub: https://github.com/toye-cyberlabs  
 - LinkedIn: www.linkedin.com/in/adewale-adetoye-elemoro-662b44299 
